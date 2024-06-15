@@ -1,0 +1,87 @@
+Course Ciruculum:
+-------------------
+1. Introduction to Data Analytics Project Life cycle.
+2. Understsnding the problem + use case.
+3. Data Ingestion, Preparation and Modeling.
+4. EDA(Exploratory Data Analysis).
+5. Machine Learning algorithms.
+6. text Analytics.
+-------------------
+Day-1
+---------------
+Introduction:
+---------------
+Here what we mainly doing is problem solving 
+what are four kinds of analytics.
+1. Descriptive(What happened).EDA majorly analyzing the historical data.
+2. Diagnostic(why something happend).
+3. Predictive(what is likely to happen).
+4. Precriptive(what has be to done).
+
+How data is collected:
+Data can be collected in two ways:
+1. Primary Data source(which the data is own by the firm)(ex: datasources, data lakes).
+2. Secondary Data source(owned outsourcing, we are giving data to third parties to collect the data). 
+when client is giving the data it is called secondary data, because it was not our organization data.
+
+ETL transformation:
+After that
+1. Null treatments
+2. Bad data
+3. Irrevalant and Irregular Data
+4. Data Featuring
+5. Data Modeling
+6. Data cleaning
+We can also create more data from the existing data, It is also a part of data analytics.
+
+-------------
+DAY - 2:
+-------------
+1. Understanding Business problems and Objectives.
+2. frame work & documentation.
+3. Impact of Data Analytics.
+
+frameworks used for developing an project.
+------------------------------------------
+SWOT   : strength weaknesses, opportunities and threats.
+PESTLE : political, economical, social, technological, legal and environmental aspects.(MBA)
+SMART  : specific, measurable, achievable, Relevant, Time-bound.
+
+
+Which tool helps in identifying potential threats and opportunities in the external business environment?
+PESTLE analysis.
+
+Five W's and one H (involves in understanding a problem)
+Who
+what
+where
+when
+why and
+how.
+-----------------------
+DAY - 3
+--------------------------------
+Data Collection and Preparation:
+--------------------------------
+Rapid APi where you can download free datasets.
+Data prepartion can be done.
+cleaning data
+null values treatment
+outlier
+data featuring
+converting object to int
+-----------------------
+DAY - 4
+--------------------------------
+Data Preparation
+--------------------------------
+
+
+
+
+
+
+
+
+
+
